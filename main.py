@@ -8,15 +8,15 @@ cap.set(4,480)
 
 #IN HSV(MIN-HIGH) Format
 colors = [
-    [152,92,137,179,255,255], #Pink
-    [23,39,186,62,255,255],  #Flourescent Yellow
+    [152,92,137,179,255,255], #Fluorescent Pink
+    [23,39,186,62,255,255],  #Fluorescent Yellow
     [40,22,126,86,149,255]  #Dark Green
     ]
 
 #IN BGR Format
 colors_val = [
     [102,51,204], #Pink
-    [6,252,194],  #Flourescent Yellow
+    [6,252,194],  #Fluorescent Yellow
     [11,139,19]   #Dark Green
     ]
 
