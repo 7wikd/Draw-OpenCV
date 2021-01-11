@@ -11,5 +11,5 @@
 ### Limitations
 - Requires white background(for now)
 - Heavily relies on lighting
-- Speed control is necessary
+- Speed control necessary
 - Manually insert color-HSV codes using the values from ```colors_HSV.py```
