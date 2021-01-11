@@ -5,8 +5,8 @@
 
 ### Features
 - Uses OpenCV
-- Identifies colours of a pen, and draws accordingly in the colour
-- For now, only set to identify 3 colours(Fluorescent Pink, Dark Green and Fluorescent Yellow)
+- Identifies colors of a pen, and draws accordingly in the color
+- For now, only set to identify 3 colors(Fluorescent Pink, Dark Green and Fluorescent Yellow)
 
 ### Limitations
 - Requires white background(for now)
