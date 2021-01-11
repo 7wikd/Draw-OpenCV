@@ -1,11 +1,9 @@
 import cv2
 import numpy as np
 
-frameWidth = 1280
-frameHeight = 720
 cap = cv2.VideoCapture(0)
-cap.set(3, frameWidth)
-cap.set(4, frameHeight)
+cap.set(3, 640)
+cap.set(4, 480)
 cap.set(10,150)
 
 def empty(a):
@@ -21,7 +19,6 @@ cv2.createTrackbar("SAT Max","HSV",255,255,empty)
 cv2.createTrackbar("VALUE Max","HSV",255,255,empty)
 
 while True:
-z
     _, img = cap.read()
     imgHsv = cv2.cvtColor(img,cv2.COLOR_BGR2HSV)
 
