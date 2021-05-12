@@ -1,7 +1,6 @@
 # Draw-OpenCV
 
-- A fun, basic project written in Python. 
-- Tries to follow pen and create lines
+- An attempt to create an on-screen writing tool, that makes use of coloured pens detected by user's webcam.
 
 ### Features
 - Uses OpenCV
